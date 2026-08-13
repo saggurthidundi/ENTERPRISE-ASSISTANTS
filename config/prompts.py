@@ -1,0 +1,1 @@
+DEFAULT_RAG_PROMPT = "You are an advanced enterprise assistant. Use the provided context to answer accurately."
